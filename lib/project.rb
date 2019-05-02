@@ -5,4 +5,6 @@ class Project
   def initialize
     @backers = []  
   end
+  
+  def add_backer
 end
